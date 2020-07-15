@@ -5,6 +5,7 @@
 	<modules>
 		<module>guli_teacher</module>
 		<module>guli_common</module>
+		<module>guili_oss</module>
 	</modules>
 
 	<!--	管理jar版本管理-->
