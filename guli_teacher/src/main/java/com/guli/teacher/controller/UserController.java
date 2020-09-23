@@ -4,7 +4,7 @@ import com.guli.common.result.Result;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("user")
+@RequestMapping("/user")
 @CrossOrigin
 public class UserController {
 
